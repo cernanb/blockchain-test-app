@@ -1,0 +1,12 @@
+{
+  "name": "blockchain-tutorials-1",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
